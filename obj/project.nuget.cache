@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vv7bXlHFslNFEtd6EjIvCmsLU/8ysyxHMOK1UZpqIzwNXYK/D+93YaR4aofOzUZVsGucPZxKmvlzZfo43u/MZw==",
+  "success": true,
+  "projectFilePath": "/home/joao/Documents/programming_projects/Mini-Max Sum/Mini-Max Sum.csproj",
+  "expectedPackageFiles": [
+    "/home/joao/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
